@@ -6,6 +6,8 @@ Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth
 
 https://raw.githubusercontent.com/RodrigoMvs123/Git-Tutorial-for-Beginners---Git-GitHub-Fundamentals-In-Depth/main/README.md
 
+https://github.com/RodrigoMvs123/Git-Tutorial-for-Beginners---Git-GitHub-Fundamentals-In-Depth/blame/main/README.md
+
 Tech With Tim 
 https://youtube.com/@TechWithTim
 https://youtu.be/DVRQoVRzMIY 
