@@ -16,13 +16,21 @@ C:\Users\Matheus>cd Desktop
 C:\Users\Matheus\Desktop>mkdir test-repo
 C:\Users\Matheus\Desktop>cd test-repo
 C:\Users\Matheus\Desktop\test-repo>git init
+```
+
+```
 Initialized empty Git repository in C:/Users/Matheus/Desktop/test-repo/.git/
-C:\Users\Matheus\Desktop\test-repo>git commit 
-On branch master
+```
+
+```
+C:\Users\Matheus\Desktop\test-repo>git commit On branch master
+```
+
 ```
 Initial commit
 
 nothing to commit (create/copy files and use "git add" to track)
+```
 
 ```
 C:\Users\Matheus\Desktop\test-repo>cd ..
